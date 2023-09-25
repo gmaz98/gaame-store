@@ -45,7 +45,6 @@ const GenreList = () => {
                 {genre.name}
               </Button>
             </HStack>
-            s
           </ListItem>
         ))}
       </List>
